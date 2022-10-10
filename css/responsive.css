@@ -1,0 +1,122 @@
+@media (min-width: 320px) and (max-width: 575.98px) {
+  #particles-js .countdown {
+    margin-top: 130px;
+    padding-top: 40px;
+  }
+  #particles-js .countdown .title h3 {
+    font-size: 18px;
+  }
+  #particles-js .countdown .item {
+    width: 23%;
+    background: transparent;
+    margin: 0 5px;
+  }
+  #particles-js .countdown .item h1 {
+    font-size: 45px;
+    background: rgba(0, 128, 128, 0.9);
+    padding: 10px 0;
+    border-radius: 5px;
+  }
+  #particles-js .countdown .item h2 {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  #particles-js .countdown .creator {
+    top: 224px;
+  }
+  #particles-js .countdown .creator .rubel {
+    font-size: 14px;
+    font-weight: 400;
+  }
+  #particles-js .countdown .creator .question {
+    font-size: 15px;
+    padding: 10px 20px;
+    background: rgba(0, 128, 128, 0.9);
+    margin-top: 62px;
+  }
+  .pop-up {
+    top: 47%;
+  }
+  .pop-up .text .para {
+    font-size: 16px;
+    width: 309px;
+  }
+  .pop-up .text .btn {
+    padding-top: 7px;
+    padding-bottom: 7px;
+  }
+  .pop-up .text .btn h4 {
+    font-size: 18px;
+  }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+  #particles-js .countdown {
+    margin-top: 130px;
+    padding-top: 50px;
+  }
+  #particles-js .countdown .title h3 {
+    font-size: 20px;
+  }
+  #particles-js .countdown .item {
+    width: 18%;
+    background: transparent;
+  }
+  #particles-js .countdown .item h1 {
+    font-size: 50px;
+    background: rgba(0, 128, 128, 0.9);
+    padding: 20px 0;
+    border-radius: 10px;
+  }
+  #particles-js .countdown .item h2 {
+    font-size: 20px;
+    margin: 10px 0;
+  }
+  #particles-js .countdown .creator {
+    top: 270px;
+  }
+  #particles-js .countdown .creator .rubel {
+    font-size: 15px;
+  }
+  #particles-js .countdown .creator .question {
+    font-size: 18px;
+  }
+  .pop-up .text .para {
+    font-size: 18px;
+  }
+  .pop-up .text .btn h4 {
+    font-size: 18px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+  #particles-js .countdown {
+    margin-top: 150px;
+    padding-top: 60px;
+  }
+  #particles-js .countdown h3 {
+    font-size: 20px;
+  }
+  #particles-js .countdown .item {
+    width: 18%;
+    background: transparent;
+  }
+  #particles-js .countdown .item h1 {
+    font-size: 50px;
+    background: rgba(0, 128, 128, 0.7);
+    padding: 20px 0;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  #particles-js .countdown .item h2 {
+    font-size: 25px;
+    margin: 10px 0;
+  }
+  #particles-js .countdown .rubel {
+    font-size: 16px;
+  }
+  #particles-js .countdown .question {
+    font-size: 18px;
+  }
+  .pop-up .text .para {
+    font-size: 20px;
+  }
+}
